@@ -38,10 +38,6 @@ I'm a passionate MERN Stack developer with a strong grasp of programming languag
 ![Joe's GitHub stats](https://github-readme-stats.vercel.app/api?username=j0ec0de&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j0ec0de&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🏆 Achievements
-- **Top 10% in Kaggle Competitions**: Participated and ranked in the top 10% in multiple data science competitions.
-- **Hackathon Winner**: Won the XYZ Hackathon for developing an innovative solution for ABC problem.
-
 ## 💬 Let's Connect!
 Feel free to reach out if you want to collaborate on a project, need help with something, or just want to chat about technology.
 

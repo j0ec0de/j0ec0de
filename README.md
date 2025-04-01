@@ -41,4 +41,4 @@ I'm a passionate MERN Stack developer with a strong grasp of programming languag
 ## 💬 Let's Connect!
 Feel free to reach out if you want to collaborate on a project, need help with something, or just want to chat about technology.
 
-[![j0ec0de's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=j0ec0de)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![j0ec0de's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=j0ec0de&theme=react)](https://github.com/j0ec0de/github-readme-activity-graph)

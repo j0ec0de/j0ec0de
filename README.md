@@ -32,7 +32,7 @@ I'm a passionate MERN Stack developer with a strong grasp of programming languag
 ## 📫 How to Reach Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joelanto386@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-anto-18821729a/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/j0ec0de)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/joelant0?t=KuAJ04sYmnRcGJg8pZ0jmQ&s=09)
 
 ## 📈 GitHub Stats
 ![Joe's GitHub stats](https://github-readme-stats.vercel.app/api?username=j0ec0de&show_icons=true&theme=radical)

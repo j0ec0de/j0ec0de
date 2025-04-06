@@ -7,7 +7,7 @@ I'm a passionate MERN Stack developer with a strong grasp of programming languag
 
 ## 🔭 Current Projects
 - **AI-Powered Chatbot**: Developing an advanced chatbot using machine learning and natural language processing.
-- **Open Source Contributions**: Actively contributing to several open source projects, including [awesome-project](https://github.com/awesome-org/awesome-project).
+- **REACT- based project**: Developing projects in react . 
 
 ## 🌱 What I'm Learning
 - **Rust**: Exploring systems programming and performance optimization.

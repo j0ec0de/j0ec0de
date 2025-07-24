@@ -10,7 +10,7 @@ I'm a passionate MERN Stack developer with a strong grasp of programming languag
 - **REACT- based project**: Developing projects in react . 
 
 ## 🌱 What I'm Learning
-- **Rust**: Exploring systems programming and performance optimization.
+- **Java**: Exploring Java programming and Spring Boot.
 - **GraphQL**: Building flexible and efficient APIs.
 
 ## 💼 Skills

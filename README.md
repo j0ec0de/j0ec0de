@@ -6,7 +6,7 @@
 I'm a passionate MERN Stack developer with a strong grasp of programming languages like C, C++, Java, and JavaScript. I enjoy solving complex problems, building efficient solutions, and collaborating on exciting projects.
 
 ## 🔭 Current Projects
-- **AI-Powered Chatbot**: Developing an advanced chatbot using machine learning and natural language processing.
+- **SecureShare**: Developing a file sharing application.
 - **REACT- based project**: Developing projects in react . 
 
 ## 🌱 What I'm Learning

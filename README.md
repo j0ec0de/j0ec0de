@@ -11,7 +11,7 @@ I'm a passionate Software developer with a strong grasp of programming languages
 
 ## 🌱 What I'm Learning
 - **Java**: Exploring Java programming and Spring Boot.
-- **GraphQL**: Building flexible and efficient APIs.
+- **JavaScript**: Exploring js.
 
 ## 💼 Skills
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)

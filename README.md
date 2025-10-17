@@ -8,7 +8,7 @@ I'm a passionate Software developer with a strong grasp of programming languages
 ## 🔭 Current Projects
 - **SecureShare**: Developing a file sharing application.
 - **Pinfinity**: Developing a pinterest sort of app in react .
-- **ResumeZ**: Developing a AI powered Application Tracking System 
+- **ResumeZ**: Developed a AI powered Application Tracking System 
 
 ## 🌱 What I'm Learning
 - **Java**: Exploring Java programming and Spring Boot.

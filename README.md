@@ -35,9 +35,13 @@ I'm a passionate Software developer with a strong grasp of programming languages
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-anto-18821729a/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/joelant0?t=KuAJ04sYmnRcGJg8pZ0jmQ&s=09)
 
-## 📈 GitHub Stats
-![Joe's GitHub stats](https://github-readme-stats.vercel.app/api?username=j0ec0de&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j0ec0de&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=j0ec0de&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=j0ec0de&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=j0ec0de&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=j0ec0de&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 💬 Let's Connect!
 Feel free to reach out if you want to collaborate on a project, need help with something, or just want to chat about technology.

@@ -6,7 +6,7 @@
 I'm a passionate Software developer with a strong grasp of programming languages like C, C++, Java, and JavaScript. I enjoy solving complex problems, building efficient solutions, and collaborating on exciting projects.
 
 ## 🔭 Current Projects
-- **SecureShare**: Developing a file sharing application.
+- **Smartlend-lms**: Loan Management system
 - **Pinfinity**: Developing a pinterest sort of app in react .
 - **ResumeZ**: Developed a AI powered Application Tracking System 
 

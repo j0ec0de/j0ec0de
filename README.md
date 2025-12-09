@@ -11,8 +11,8 @@ I'm a passionate Software developer with a strong grasp of programming languages
 - **ResumeZ**: Developed a AI powered Application Tracking System 
 
 ## 🌱 What I'm Learning
-- **Java**: Exploring Java programming and Spring Boot.
 - **JavaScript**: Exploring js.
+- **Typescript**: Exploring ts.
 
 ## 💼 Skills
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)

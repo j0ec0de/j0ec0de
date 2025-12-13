@@ -36,7 +36,7 @@ I'm a passionate Software developer with a strong grasp of programming languages
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/joelant0?t=KuAJ04sYmnRcGJg8pZ0jmQ&s=09)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=j0ec0de&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+
 ![](https://nirzak-streak-stats.vercel.app/?user=j0ec0de&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=j0ec0de&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 

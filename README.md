@@ -3,7 +3,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=j0ec0de&color=blueviolet&style=flat)
 
 ## 🚀 About Me
-I'm a passionate Software developer with a strong grasp of programming languages like C, C++, Java, and JavaScript. I enjoy solving complex problems, building efficient solutions, and collaborating on exciting projects.
+I'm a passionate Software developer with a strong grasp of programming languages like C and JavaScript. I enjoy solving complex problems, building efficient solutions, and collaborating on exciting projects.
 
 ## 🔭 Current Projects
 - **Smartlend-lms**: Loan Management system
